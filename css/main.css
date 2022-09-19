@@ -29,12 +29,11 @@ header {
 }
 
 .circle {
-  width: 35%;
-  height: 188px;
+  width: 150px;
+  height: 90px;
   background-color: #fff;
   position: fixed;
   border-radius: 50%;
-  top: -40px;
   left: -84px;
 }
 
@@ -101,16 +100,16 @@ header {
 
 /* ------------- Header navbar--------------------- */
 
-/* ----hambuger----- */
+/* ----Hamburger----- */
 
 .hamburger-container {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  width: 50px;
+  width: 34px;
   position: relative;
-  top: 2rem;
-  left: 2rem;
+  top: 1.5rem;
+  left: 0.8rem;
 }
 
 .hamburger-container.active .bar:nth-child(2) {
@@ -224,31 +223,5 @@ header {
 @media (min-width: 1400px) {
   .navbar {
     padding: 1rem 10% 1rem 10%;
-  }
-}
-
-@media (max-width: 600px) {
-  .circle {
-    width: 40%;
-    top: -7%;
-    left: -20%;
-  }
-
-  .hamburger-container {
-    width: 10%;
-  }
-}
-
-@media (max-width: 600px) {
-  .circle {
-    width: 40%;
-    top: -7%;
-    left: -20%;
-  }
-
-  .hamburger-container {
-    width: 10%;
-    padding: 0;
-    left: 1rem;
   }
 }
