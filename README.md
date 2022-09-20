@@ -2,8 +2,7 @@
 
 # Path to JavaScript Mastery
 
-> Description the project.
-
+> Path to JavaScript Mastery course covers everything you need to be an outstanding JavaScript Developer who is ready to learn any framework or library.
 
 ## Built With
 
