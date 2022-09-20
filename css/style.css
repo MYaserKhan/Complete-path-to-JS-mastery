@@ -153,6 +153,7 @@ footer div p {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   padding: 0 1rem;
+  color: #fff;
 }
 
 .schedule-cards:hover {
@@ -185,10 +186,7 @@ footer div p {
 
 .instructor-section {
   padding: 3rem 2rem 0 2rem;
-  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0) -3.75%, rgba(255, 255, 255, 0.5) 0%), url("../img/instructors.jpg");
-  background-size: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: #fff;
   height: auto;
   width: 100%;
   overflow: hidden;
@@ -208,7 +206,7 @@ footer div p {
 
 .instructor {
   display: flex;
-  gap: 10px;
+  gap: 20px;
 }
 
 .instructor:hover {
@@ -254,15 +252,16 @@ footer div p {
 }
 
 .cards h2 {
-  font-weight: 700;
-  font-size: 18px;
+  font-weight: 900;
+  font-size: 20px;
   text-transform: uppercase;
 }
 
 .cards h3 {
-  font-weight: 900;
+  font-weight: 600;
   color: var(--red);
-  font-size: 28px;
+  font-size: 16px;
+  font-style: italic;
 }
 
 .cards p {
@@ -400,6 +399,7 @@ footer {
   .schedule-cards h3 {
     width: 100%;
     font-size: 22px;
+    font-weight: 600;
   }
 
   .schedule-cards p {
@@ -458,7 +458,8 @@ footer {
   }
 
   .instructor p {
-    font-size: 20px;
+    font-size: 16px;
+    padding-top: 10px;
   }
 }
 
