@@ -243,14 +243,14 @@ footer div p {
 .image-instructor {
   width: 6rem;
   padding: 0;
-  height: 100px;
+  height: 122px;
 }
 
 .cards {
-  width: 60%;
+  width: 70%;
   display: flex;
   flex-direction: column;
-  gap: 3px;
+  gap: 8px;
 }
 
 .cards h2 {
