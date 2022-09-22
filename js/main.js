@@ -21,7 +21,6 @@ const instructorContainer = [
     title: 'Leading open-source projects at GitHub',
     description: 'Joseph has been leading open-source projects at GitHub. Mostly related to JavaScript',
     Image: 'img/joseph.jpg',
-    backImage: 'img/joseph.jpg',
   },
   {
     name: 'Jurica Koletic',
