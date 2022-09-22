@@ -14,6 +14,9 @@
 
 [Live Demo Link](https://myaserkhan.github.io/Path-to-JavaScript-Mastery/)
 
+## Live Loom
+
+[Live Loom Link](https://www.loom.com/share/4507bcb55f8847879ac028404c6263aa)
 
 ## Getting Started
 
