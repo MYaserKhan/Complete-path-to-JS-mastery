@@ -21,6 +21,7 @@ const instructorContainer = [
     title: 'Leading open-source projects at GitHub',
     description: 'Joseph has been leading open-source projects at GitHub. Mostly related to JavaScript',
     Image: 'img/joseph.jpg',
+    backImage: 'img/joseph.jpg',
   },
   {
     name: 'Jurica Koletic',
@@ -39,6 +40,18 @@ const instructorContainer = [
     title: 'CEO of Smartsheet',
     description: 'Ayo the CEO of Smartsheet, a software-as-service (SaaS) company that offers applications for collaboration.',
     Image: 'img/ayo.jpg',
+  },
+  {
+    name: 'Julia Leda',
+    title: 'CEO & co-founder of Canva',
+    description: 'Julia raised one of Australia’s early stage investment rounds, a disruptive online design and publishing tool.',
+    Image: 'img/leda.jpg',
+  },
+  {
+    name: 'Ryan Merkley',
+    title: 'CEO of Creative Commons',
+    description: 'Ryan has been leading open-source projects at the Mozilla Foundations such as open-source movement.',
+    Image: 'img/Ryan.jpg',
   },
 ];
 
