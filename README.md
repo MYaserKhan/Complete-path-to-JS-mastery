@@ -18,7 +18,6 @@
 
 [Live Loom Link](https://www.loom.com/share/4a200dd77c314cf2bd1be2128873d7ce)
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
