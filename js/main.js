@@ -13,6 +13,13 @@ const instructorSection = document.querySelector('.instructor-container');
 
 seeMore.addEventListener(('click'), () => {
   seeInstructor.classList.toggle('setoff');
+  const seeMore = document.getElementById('span');
+
+  if (seeMore.innerHTML === 'Show more') {
+    seeMore.innerHTML = 'Show less';
+  } else {
+    seeMore.innerHTML = 'Show more';
+  }
 });
 
 const instructorContainer = [

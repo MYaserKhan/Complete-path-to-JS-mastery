@@ -225,7 +225,7 @@ footer div p {
 }
 
 .setoff {
-  height: 49vh;
+  height: 55vh;
 }
 
 @keyframes slidein {
@@ -265,7 +265,7 @@ footer div p {
 }
 
 .cards p {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
 }
 
