@@ -1,62 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Path to JavaScript Mastery
 
-> Description the project.
-
+> Path to JavaScript Mastery course covers everything you need to be an outstanding JavaScript Developer who is ready to learn any framework or library.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://myaserkhan.github.io/Path-to-JavaScript-Mastery/)
+
+## Live Loom
+
+[Live Loom Link](https://www.loom.com/share/4a200dd77c314cf2bd1be2128873d7ce)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
+- Git installed
+
+
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- open a terminal
+- run `git clone git@github.com:MYaserKhan/Portfolio.git`
+- run `cd Path to JavaScript Mastery`
+- open index.html
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MYaserKhan](https://github.com/MYaserKhan)
+- Twitter: [@khanyaser007](https://twitter.com/khanyaser007)
+- LinkedIn: [Yasir Khan](https://www.linkedin.com/in/yasir-khan-398229195/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/MYaserKhan/Path-to-JavaScript-Mastery/issues).
 
 ## Show your support
 
@@ -64,12 +55,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Originial design idea by [Cindy Shin in Behance.](https://www.behance.net/adagio07)
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
