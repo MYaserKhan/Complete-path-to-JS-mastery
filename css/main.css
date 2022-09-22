@@ -177,7 +177,6 @@ header {
   }
 
   .hamburger-container,
-  .list-item:nth-child(1),
   .circle {
     display: none;
   }
