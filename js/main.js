@@ -57,7 +57,7 @@ const instructorContainer = [
     name: 'Ryan Merkley',
     title: 'CEO of Creative Commons',
     description: 'Ryan has been leading open-source projects at the Mozilla Foundations such as open-source movement.',
-    Image: 'img/Ryan.jpg',
+    Image: 'img/ryan.jpg',
   },
 ];
 
